@@ -25,3 +25,11 @@ dvc add data_given/winequalityN.csv
 
 git add .
 git commit -m "first commit"
+
+git add .  && git commit -m "update README.md"
+
+git remote add origin http://
+
+git branch -M main
+
+git push origin main
