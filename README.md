@@ -14,3 +14,14 @@ install the reqs
 ```bash
 pip install -r requirement.txt
 ```bash
+
+download data from 
+
+https://
+
+got init
+dvc init
+dvc add data_given/winequalityN.csv
+
+git add .
+git commit -m "first commit"
